@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-05-23T04:20:12.053442+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-23T18:13:06.915031+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
+          "url": "https://flash.jin10.com/detail/20260523153803265800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        }
+      ]
+    },
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 2,
@@ -12,11 +112,12 @@
           "url": "https://www.cls.cn/detail/2379432",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 18时13分]"
         },
         {
           "title": "媒体：韩国投资者抄底A股",
@@ -24,23 +125,6 @@
           "source": "今日头条",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
-          "url": "https://www.zhihu.com/question/2041260640740927118",
-          "source": "知乎",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -66,6 +150,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -76,7 +177,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
