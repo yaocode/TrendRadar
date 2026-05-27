@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T04:30:54.628428+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-27T19:54:26.855742+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -63,6 +63,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "AI热潮推动下，美股期指上扬，盘前美光涨8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260527040525791800",
           "source": "金十数据",
@@ -85,6 +96,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 美光涨19%",
           "url": "https://flash.jin10.com/detail/20260527040035208800",
           "source": "金十数据",
@@ -94,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
