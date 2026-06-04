@@ -1,171 +1,61 @@
 {
-  "generated_at": "2026-06-04T19:32:04.734890+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-06-05T04:33:08.594186+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3114398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 04时33分]"
         },
         {
-          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3773742",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 04时33分]"
         },
         {
-          "title": "如何看待美股窄牛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
           "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 04时33分]"
+        },
+        {
+          "title": "房利美和房地美股价在美国粉单市场上涨6%；特朗普表示，房利美和房地美的价值可能达到1万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605041157791800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "博通美股盘后跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3114029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3114383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2389957",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3114012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "区域银行ETF收跌将近2.4%，领跌美股行业ETF，标普能源板块涨约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3114008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "Five Below美股盘后跌8%。 该公司一季度净销售12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -176,163 +66,35 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "time_info": "[04时32分 ~ 04时33分]"
         },
         {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
+          "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3114609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "《新闻联播》披露A股重要数据",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "评论员：A股正成为全民财富新蓄水池",
-          "url": "https://www.toutiao.com/trending/7647043750434180627/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3114026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "国内金价跌破980元每克",
-          "url": "https://www.toutiao.com/trending/7646967437870747187/",
+          "title": "韩国资金押注A股科技股",
+          "url": "https://www.toutiao.com/trending/7647424442825572395/",
           "source": "今日头条",
           "ranks": [
-            25
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 04时33分]"
         }
       ]
     },
@@ -341,32 +103,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数3日上涨",
-          "url": "https://flash.jin10.com/detail/20260604044651294800",
-          "source": "金十数据",
+          "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
+          "url": "https://wallstreetcn.com/livenews/3114603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "04时33分"
         }
       ]
     }
