@@ -1,133 +1,105 @@
 {
-  "generated_at": "2026-06-05T19:42:53.473960+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-06-06T04:25:25.177519+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "房利美和房地美股价在美国粉单市场上涨6%；特朗普表示，房利美和房地美的价值可能达到1万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605041157791800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
+          "time_info": "04时25分"
         },
         {
-          "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3114609",
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "04时25分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260606040542544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX与谷歌签署300亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3115327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "韩国资金押注A股科技股",
-          "url": "https://www.toutiao.com/trending/7647424442825572395/",
-          "source": "今日头条",
-          "ranks": [
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
@@ -140,11 +112,45 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
+          "url": "https://www.cls.cn/detail/2392216",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
@@ -153,15 +159,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
-          "url": "https://wallstreetcn.com/livenews/3114603",
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "04时25分"
         }
       ]
     }
