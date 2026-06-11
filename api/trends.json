@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T20:28:33.378136+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-06-12T04:43:35.945484+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -14,192 +14,131 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "04时43分"
         },
         {
-          "title": "美国总统特朗普表示，美国今晚将对伊朗采取强硬措施，美国将拿下哈尔克岛，将完全控制伊朗的石油和天然气市场。美股股指期货短线下挫，纳指期货涨幅收窄至0.65%，国际油价拉升。现货黄金短线走低20美元，报4069.45美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3118177",
+          "title": "美满电子（迈威尔科技）美股盘后跌2%，该公司任命Dan Durn为首席财务官（CFO），6月15日生效。",
+          "url": "https://wallstreetcn.com/livenews/3118391",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "04时43分"
         },
         {
-          "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
-          "url": "https://wallstreetcn.com/livenews/3117696",
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3118388",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         },
         {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超4.1%，纳指ETF跌2%",
-          "url": "https://wallstreetcn.com/livenews/3117690",
+          "title": "美股半导体指数创2025年4月份以来最大单日涨幅",
+          "url": "https://wallstreetcn.com/livenews/3118382",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         },
         {
-          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3117687",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260612040525315800",
+          "source": "金十数据",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         },
         {
-          "title": "甲骨文第四财季调整后营收191.8亿美元，分析师预期190.9亿美元。 第四财季软件营收68.2亿美元，分析师预期68.8亿美元；软件租赁营收18.8亿美元，分析师预期19.3亿美元；分析师软件支持营收49.4亿美元，预期49.8亿美元。 第四财季云基础设施营收（IAAS）为57.9亿美元，分析师预期57.2亿美元。 第四财季云收入（IAAS+SAAS）为99.1亿美元，分析师预期100亿美元。 确认2027财年总收入900亿美元的指引。 上调2027财年调整后每股收益（EPS）预期至8.05美元，符合分析师预期。 预计第一财季营收按恒定汇率将增长27%-29%，调整后EPS将为1.72-1.76美元、分析师预期1.69美元。 甲骨文（ORCL）美股盘后跌8%。",
-          "url": "https://wallstreetcn.com/livenews/3117686",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月11日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260612040522641800",
+          "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         },
         {
-          "title": "甲骨文(ORCL.N)美股盘后跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260611040637443800",
+          "title": "美股收盘：纳指涨2.5% 美伊协议曙光再现",
+          "url": "https://flash.jin10.com/detail/20260612040109057800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "04时43分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "金价跌了生意却没疯涨时好",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "04时43分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股又遇 “世界杯魔咒”？多家券商亮观点：短期情绪镜子",
-          "url": "https://www.cls.cn/detail/2396928",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "A股牛市轮涨要来了吗",
-          "url": "https://www.toutiao.com/trending/7649774117205331499/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "海信“当裁判” 华帝送青瓷：A股公司掘金世界杯",
-          "url": "https://www.cls.cn/detail/2396985",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek为何发力Agent",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2397515",
+          "source": "财联社热门",
           "ranks": [
-            17
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "04时43分"
         }
       ]
     }
