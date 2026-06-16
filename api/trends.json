@@ -1,221 +1,172 @@
 {
-  "generated_at": "2026-06-16T21:12:41.906139+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-06-17T05:29:59.678694+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美伊协议落地，拉美股汇走势分化",
-          "url": "https://wallstreetcn.com/livenews/3119879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
           "url": "https://wallstreetcn.com/articles/3774633",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "05时29分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3120350",
-          "source": "华尔街见闻-快讯",
+          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "05时29分"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "05时29分"
         },
         {
-          "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3119873",
+          "title": "投资者权衡美伊协议，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3120500",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2400410",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美股AMKOR盘前拉升，涨超6%。台积电(TSM.N)与AMKOR宣布建立长期合作伙伴关系，以加速美国先进封装发展。",
-          "url": "https://flash.jin10.com/detail/20260616210131904800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
-          "url": "https://wallstreetcn.com/livenews/3119872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
-          "url": "https://wallstreetcn.com/livenews/3119870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "新兴市场ETF收涨将近3.3%，领跑美股大类资产类ETF，布油基金跌3.7%",
-          "url": "https://wallstreetcn.com/livenews/3119867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "05时29分"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
           "ranks": [
-            16
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "05时29分"
         },
         {
-          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
-          "url": "https://wallstreetcn.com/livenews/3119863",
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "05时29分"
         },
         {
-          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3119862",
+          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040526431800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "05时29分"
         },
         {
-          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119861",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040524359800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.toutiao.com/trending/7651579346738855979/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
+          "url": "https://wallstreetcn.com/livenews/3120501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌0.1%",
-          "url": "https://wallstreetcn.com/livenews/3119848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "布伦特原油自3月3日以来首次跌破每桶80美元，报79.99美元/桶，日内跌近4%。 WTI原油日内跌幅达3.5%，报76.64美元/桶。 标普500指数期货抹去早前涨幅，转为下跌。",
-          "url": "https://wallstreetcn.com/livenews/3120319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股又一只“30倍股”诞生",
-          "url": "https://www.toutiao.com/trending/7650841793659633700/",
-          "source": "今日头条",
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260617040255849800",
+          "source": "金十数据",
           "ranks": [
-            9
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "05时29分"
         }
       ]
     }
