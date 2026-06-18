@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T04:35:58.491321+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-18T20:16:59.993990+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
         {
           "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
           "url": "https://wallstreetcn.com/livenews/3121254",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-18）",
+          "url": "https://flash.jin10.com/detail/20260618201227960800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -74,6 +96,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "金十图示：2026年06月17日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260618040640588800",
           "source": "金十数据",
@@ -83,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "金十图示：2026年06月17日（周三）热门中概股行情一览（美股收盘）",
@@ -107,6 +151,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "SpaceX美股盘前跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3121676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "美股费城银行指数转跌，此前一度涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/3121232",
           "source": "华尔街见闻-快讯",
@@ -116,6 +171,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://wallstreetcn.com/livenews/3121655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
@@ -189,6 +272,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汤臣倍健：拟5000万元投资原粒半导体 后者基于Chiplet技术创新打造AI推理芯片",
+          "url": "https://wallstreetcn.com/livenews/3121657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     }
