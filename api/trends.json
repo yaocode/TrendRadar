@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-21T04:04:29.346356+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-21T19:31:21.885665+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "五只科技股杀入A股市值前十",
+          "url": "https://www.toutiao.com/trending/7653657296974646825/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
+        },
+        {
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -23,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -43,37 +83,20 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2404440",
-          "source": "财联社热门",
+          "title": "金价大跌消费者涌入柜台",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%8C%E5%85%A5%E6%9F%9C%E5%8F%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
         },
-        {
-          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
-          "url": "https://www.cls.cn/detail/2404108",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
         {
           "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
@@ -84,6 +107,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
         }
       ]
     }
