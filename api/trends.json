@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-29T03:54:45.538408+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-29T20:47:16.650531+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
         {
           "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
           "url": "https://www.cls.cn/detail/2411079",
@@ -44,8 +66,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
@@ -73,6 +106,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价跳水",
+          "url": "https://www.douyin.com/hot/2552234",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Politico：美国参议员斯科特和哈格蒂提出一项法案，旨在保障人工智能供应链安全。该法案将允许美国阻止人工智能技术流向古巴和伊朗。",
+          "url": "https://flash.jin10.com/detail/20260629200647929800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
