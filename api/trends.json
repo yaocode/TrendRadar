@@ -1,222 +1,100 @@
 {
-  "generated_at": "2026-07-02T19:07:15.699351+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-07-03T04:02:18.099797+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3127607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "04时02分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.2%，科技板块跌1.7%，能源板块跌0.8%，金融板块涨2.1%，电信板块涨2.6%。 纳斯达克100指数初步收跌1.5%，成分股中，Nebius Group初步收跌16.2%，CoreWeave跌13.6%，科磊、泰瑞达、闪迪跌超10%，美光跌9.9%，阿斯麦ADR跌7.5%，Strategy则涨7.9%，Palantir、拼多多ADR涨8.1%，Meta涨9%，Applovin涨9.6%。 美股存储芯片指数跌超8%，成分股闪迪、泰瑞达、拉姆研究跌约10%。费城半导体指数跌6.3%。 Salesforce、耐克初步收涨超4%，与美国运通、微软、联合健康、IBM领跑道指成分股，思科则跌0.6%，霍尼韦尔、英伟达跌1%，Merck跌2.1%，沃尔玛跌3.8%，卡特彼勒跌6.6%。",
-          "url": "https://wallstreetcn.com/livenews/3127599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
-          "url": "https://wallstreetcn.com/livenews/3127592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
-          "url": "https://www.cls.cn/detail/2414140",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "A股交易新规下周一正式施行",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%84%E4%B8%8B%E5%91%A8%E4%B8%80%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2555608",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "2026年6月A股新开户286.46万户 同比增长73.99%",
-          "url": "https://flash.jin10.com/detail/20260702190410939800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "博主：A股七月变盘散户别再只看指数",
-          "url": "https://www.toutiao.com/trending/7657859836637351487/",
-          "source": "今日头条",
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
-          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
-          "url": "https://www.cls.cn/detail/2414312",
-          "source": "财联社热门",
+          "title": "出现性能下降问题 DeepSeek回应",
+          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
-          "url": "https://www.zhihu.com/question/2053257491765581754",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
-          "url": "https://wallstreetcn.com/livenews/3127589",
+          "title": "美元指数在非农日跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3128198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3128193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     }
