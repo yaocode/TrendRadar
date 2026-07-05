@@ -1,132 +1,94 @@
 {
-  "generated_at": "2026-07-05T18:37:48.058060+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-07-06T03:50:53.988142+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
-          "url": "https://www.cls.cn/detail/2417029",
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
           "source": "财联社热门",
           "ranks": [
-            1,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "多家A股公司，业绩大增",
+          "url": "https://www.cls.cn/detail/2417346",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
           "url": "https://www.cls.cn/detail/2417150",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "03时50分"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2417129",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 18时37分]"
-        },
-        {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 18时37分]"
-        },
-        {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "下周A股反弹能走多远",
-          "url": "https://www.toutiao.com/trending/7658668747116252735/",
-          "source": "今日头条",
-          "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "03时50分"
         },
         {
-          "title": "A股交易新规明日开启",
-          "url": "https://www.toutiao.com/trending/7657917122596896774/",
-          "source": "今日头条",
+          "title": "A股交易新规今起施行 投资者需注意三大变化",
+          "url": "https://flash.jin10.com/detail/20260706023348767800",
+          "source": "金十数据",
           "ranks": [
-            30
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "03时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 18时37分]"
-        },
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
           "url": "https://wallstreetcn.com/articles/3776204",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "03时50分"
         },
         {
-          "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
-          "url": "https://www.zhihu.com/question/2055415968537618014",
-          "source": "知乎",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "03时50分"
         }
       ]
     },
@@ -139,28 +101,11 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
-          "url": "https://flash.jin10.com/detail/20260705160914671800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "03时50分"
         }
       ]
     }
