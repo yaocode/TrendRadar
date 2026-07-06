@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T03:50:53.988142+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T20:24:13.732641+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -41,6 +41,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "A股医药煤炭板块大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8C%BB%E8%8D%AF%E7%85%A4%E7%82%AD%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2417129",
           "source": "财联社热门",
@@ -66,8 +77,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
           "url": "https://wallstreetcn.com/articles/3776204",
@@ -89,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
