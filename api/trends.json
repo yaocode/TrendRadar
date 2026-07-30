@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-30T03:52:50.462307+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-30T18:39:09.467201+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股市值前10红了9个",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "评论员：A股新一轮配置窗口正在打开",
+          "url": "https://www.toutiao.com/trending/7668159210403679763/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "A股科技股拥挤度",
+          "url": "https://www.toutiao.com/trending/7667925391805255174/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -60,19 +100,19 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股科技股拥挤度",
-          "url": "https://www.toutiao.com/trending/7667925391805255174/",
-          "source": "今日头条",
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
         }
       ]
     },
@@ -90,6 +130,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：亚马逊发现多起人工智能导致技术项目支出失控的案例。",
+          "url": "https://flash.jin10.com/detail/20260730180612911800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
