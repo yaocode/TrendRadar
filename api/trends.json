@@ -1,94 +1,11 @@
 {
-  "generated_at": "2026-07-31T19:07:14.969740+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-08-01T04:04:10.957841+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
-          "url": "https://flash.jin10.com/detail/20260731035000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "埃克森美孚第二季度收入及其他收益1,160.2亿美元，预估1,031亿美元。 第二季度调整后每股收益3.52美元，预估3.54美元。 埃克森美孚美股盘前跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3143179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "雪佛龙二季度营收及其他收入700.6亿美元，预估679.3亿美元。 二季度调整后每股收益6.06美元，预估5.65美元。 雪佛龙预计全年资本支出位于180亿至190亿美元区间的低端，此前预期为180亿至190亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3143166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -99,90 +16,90 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
-          "title": "DeepSeek-V4-Flash正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
           "ranks": [
-            20
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
           "ranks": [
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
         }
       ]
     },
@@ -195,56 +112,56 @@
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
-          "title": "美元指数跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3142622",
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "04时04分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142601",
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
-          "url": "https://www.cls.cn/detail/2441712",
-          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Tether在伊朗战争金价下跌期间再次加大黄金购买力度",
+          "url": "https://wallstreetcn.com/livenews/3143414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     }
