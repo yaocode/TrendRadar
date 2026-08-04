@@ -1,99 +1,149 @@
 {
-  "generated_at": "2026-08-04T19:04:07.969478+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-08-05T04:10:10.237965+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美股",
       "match_count": 9,
       "titles": [
         {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 04时10分]"
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 04时10分]"
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260805040520889800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3144931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 04时10分]"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘后涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260805040357009800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美股收盘：道指、标普500创新高 海力士涨8%",
+          "url": "https://flash.jin10.com/detail/20260805040059195800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3144913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3144900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
           "source": "百度热搜",
           "ranks": [
-            1
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
+          "time_info": "[04时09分 ~ 04时10分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "time_info": "[04时09分 ~ 04时10分]"
         },
         {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
           "ranks": [
-            7
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "DeepSeek斩杀线斩的是什么",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "DeepSeek低价风暴打服硅谷",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "time_info": "[04时09分 ~ 04时10分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -104,213 +154,24 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "城堡证券：推动美股创新高的力量依然稳固",
-          "url": "https://flash.jin10.com/detail/20260804034718869800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "辉瑞第二季度营收150.3亿美元，预估144.1亿美元。 第二季度调整后每股收益0.77美元。 第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。 第二季度PREVNAR特许费收入 13.4亿美元。 辉瑞预计全年营收605亿美元至625亿美元，市场预估617.6亿美元。 辉瑞美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3144692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "卡特彼勒公司第二季度营收205.4亿美元，同比增长24%，预估190.1亿美元。 第二季度每股收益7.77美元，上年同期4.62美元。 第二季度调整后每股收益8.17美元，预估6.17美元。 卡特彼勒美股盘前涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3144682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
-          "url": "https://wallstreetcn.com/livenews/3144681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/3144672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "[04时09分 ~ 04时10分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时10分 ~ 19时04分]"
-        },
-        {
-          "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
-          "url": "https://wallstreetcn.com/livenews/3144322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "OpenAI：我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。",
-          "url": "https://flash.jin10.com/detail/20260804025647865800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "OpenAI：这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
-          "url": "https://flash.jin10.com/detail/20260804025632127800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。",
-          "url": "https://flash.jin10.com/detail/20260804025545573800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股又现“大肉签”，中一签最高可赚7.5万元",
-          "url": "https://www.cls.cn/detail/2444914",
-          "source": "财联社热门",
-          "ranks": [
-            1
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
-          "url": "https://www.cls.cn/detail/2444433",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "A股股价前十红了9个",
-          "url": "https://www.toutiao.com/trending/7669281614337277979/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "创业板暴涨5% A股市场真的企稳了吗",
-          "url": "https://www.toutiao.com/trending/7670109594571509291/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "time_info": "[04时09分 ~ 04时10分]"
         }
       ]
     },
@@ -319,15 +180,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
-          "url": "https://wallstreetcn.com/livenews/3144332",
+          "title": "美元指数大致持稳，日元连涨多日之后高位企稳",
+          "url": "https://wallstreetcn.com/livenews/3144923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
+          "url": "https://wallstreetcn.com/livenews/3144926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         }
       ]
     }
