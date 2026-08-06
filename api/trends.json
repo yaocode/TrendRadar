@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-08-06T04:08:04.618604+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T19:01:54.871729+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -25,9 +97,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
@@ -36,7 +119,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -50,6 +133,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 04时08分]"
+        },
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 04时08分]"
+        },
+        {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 04时08分]"
+        },
+        {
+          "title": "A股重返3900点 情绪修复或近尾声",
+          "url": "https://www.toutiao.com/trending/7670833067421863467/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -75,37 +208,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
         }
       ]
     },
@@ -120,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -131,7 +236,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
@@ -148,9 +253,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -165,7 +287,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
