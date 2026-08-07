@@ -1,295 +1,200 @@
 {
-  "generated_at": "2026-08-06T19:01:54.871729+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-08-07T08:24:34.188899+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
+          "title": "DeepSeek终于打算激进扩张了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "08时24分"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
           "source": "知乎",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "08时24分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "08时24分"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040522076800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3145991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
-          "url": "https://flash.jin10.com/detail/20260806040100669800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "08时24分"
         },
         {
-          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2446634",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
-          "url": "https://wallstreetcn.com/livenews/3145958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "A股重返3900点 情绪修复或近尾声",
-          "url": "https://www.toutiao.com/trending/7670833067421863467/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3145560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
-          "url": "https://wallstreetcn.com/livenews/3145571",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "08时24分"
         },
         {
-          "title": "周三（8月5日）纽约尾盘，彭博谷物分类指数跌0.24%，报30.9358点。 CBOT玉米期货跌1.02%，CBOT小麦期货涨0.95%。 CBOT大豆期货跌0.11%，报11.7675美元/蒲式耳，豆粕期货跌0.82%，豆油期货跌0.44%。 CBOT瘦肉猪期货跌1.51%，活牛期货涨0.67%，饲牛期货涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3145569",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时24分"
+        },
         {
-          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
-          "url": "https://flash.jin10.com/detail/20260806032320074800",
-          "source": "金十数据",
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时24分"
+        },
         {
-          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
-          "url": "https://www.cls.cn/detail/2447296",
-          "source": "财联社热门",
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3145567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "美股三大指数集体收跌 西数跌超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+          "url": "https://www.zhihu.com/question/2068631767326660517",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股存量博弈特征凸显，机构：科创制造主线的结构性行情将阶段性延续",
+          "url": "https://wallstreetcn.com/livenews/3146296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         }
       ]
     }
