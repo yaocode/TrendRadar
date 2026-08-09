@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-08-09T03:09:06.892892+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-09T17:12:02.009513+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 17时12分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "time_info": "[17时11分 ~ 17时12分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 17时12分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -39,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
         }
       ]
     },
@@ -51,11 +75,12 @@
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 17时12分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -64,9 +89,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价为何突然大涨",
+          "url": "https://www.douyin.com/hot/2602679",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "金价猛涨踏空的人哭麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时09分]"
         }
       ]
     },
@@ -82,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 17时12分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -125,23 +178,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价猛涨踏空的人哭麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
