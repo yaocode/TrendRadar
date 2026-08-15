@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:30:53.535772+08:00",
+  "generated_at": "2026-08-16T02:56:48.465415+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
@@ -8,37 +8,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+          "url": "https://www.zhihu.com/question/2071619812795609447",
+          "source": "知乎",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         },
         {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         }
       ]
     },
@@ -55,18 +55,46 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         },
         {
-          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
-          "url": "https://www.cls.cn/detail/2454642",
-          "source": "财联社热门",
+          "title": "A股牛市第三阶段的新叙事",
+          "url": "https://wallstreetcn.com/articles/3779505",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
@@ -75,15 +103,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
-          "url": "https://flash.jin10.com/detail/20260815024758590800",
-          "source": "金十数据",
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         }
       ]
     },
@@ -92,49 +120,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价反复跳水 老铺黄金罕见大促",
-          "url": "https://www.toutiao.com/trending/7673177168197992475/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "02时56分"
         }
       ]
     }
